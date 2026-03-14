@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "鯨の唄",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-03-14T21:01:15.161419Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "鯨の唄",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_鯨の唄_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "06. 鯨の唄",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_06._鯨の唄_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鯨の唄",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_鯨の唄_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
